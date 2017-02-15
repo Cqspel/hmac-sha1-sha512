@@ -1,0 +1,10 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.d
+
+# Compiled binari files in Release and Debug directories
+Debug/hmac-sha1-sha512
+Release/hmac-sha1-sha512
